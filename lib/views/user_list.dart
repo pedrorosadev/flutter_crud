@@ -5,7 +5,6 @@ import 'package:flutter_crud/provider/users.dart';
 import 'package:flutter_crud/routes/app_routes.dart';
 import 'package:flutter_crud/widgets/user_title.dart';
 import 'package:provider/provider.dart';
-
 import '../models/user.dart';
 
 class UserList extends StatelessWidget {
